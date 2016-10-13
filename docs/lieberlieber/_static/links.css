@@ -1,0 +1,9 @@
+		.clearfix li a:link, .clearfix li a:visited, .clearfix li a:active {color: #666; text-decoration: none;}
+.clearfix li a:hover {color: #0c89d1; text-decoration: none;}
+
+	header{
+	width: 100%;
+	z-index: 999;
+	position: fixed;
+	top: 0;
+}
